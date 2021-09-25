@@ -6,7 +6,8 @@ Anggota: Faisal Reza M 05111940000009
   - buka file pcap 1-5
   - masukkan (display) filter http.host == "ichimarumaru.tech"
   - klik kanan > follow tcp stream frame yang mana saja
-  
+  ![image](https://user-images.githubusercontent.com/11045113/134754618-f6af7e3f-dc84-4b17-93f5-67d15b7b11d2.png)
+  - webserver yang digunakan adalah nginx
 2. Temukan paket dari web-web yang menggunakan basic authentication method!
 3. Ikuti perintah di basic.ichimarumaru.tech! Username dan password bisa didapatkan dari file .pcapng!
 4. Temukan paket mysql yang mengandung perintah query select!
