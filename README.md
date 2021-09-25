@@ -56,8 +56,8 @@ Anggota: Faisal Reza M 05111940000009
 
 ## 9. Dari paket-paket yang menuju FTP terdapat inidkasi penyimpanan beberapa file. Salah satunya adalah sebuah file berisi data rahasia dengan nama "secret.zip". Simpan dan buka file tersebut! #
   - (maaf saya tidak tahu cara menggunakan display filter, jadi saya menggunakan cara khas CTF) gunakan ctrl + F dengan mode hex untuk mencari “50 4B 03 04” yang merupakan hex signature dari file zip, lalu akan ditemukan bahwa packet yang mengadung zip adalah frame 170
-  - frame yang ditunjuk adalah frame 170
   - ![image](https://user-images.githubusercontent.com/11045113/134759356-ae6c33bb-3960-407a-ad15-1befd1c7e0f7.png)
+  - klik kanan > follow tcp stream
   - ![image](https://user-images.githubusercontent.com/11045113/134759364-9e56ab45-6c52-44e1-86fb-020987f10f29.png)
   - hasil file zip
   - ![image](https://user-images.githubusercontent.com/11045113/134759378-82bfbe1a-26e0-4051-8d8e-905c635d5812.png)
