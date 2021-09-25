@@ -87,7 +87,7 @@ Anggota: Faisal Reza M 05111940000009
 
 ## 15. Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian! #
   - cari ip menggunakan ipconfig
-  - ![image](https://user-images.githubusercontent.com/11045113/134759559-67366280-d851-4de8-a015-91054d93d2b3.png)
+  - ![image](https://user-images.githubusercontent.com/11045113/134759698-936d3e96-6a58-4df7-8acf-53da47ba8417.png)
   - mcf src net 192.168.43.158
   - ![image](https://user-images.githubusercontent.com/11045113/134759595-044d185b-edfc-4b81-af90-0a37a71edf4b.png)
 
